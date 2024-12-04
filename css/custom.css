@@ -14,3 +14,662 @@
 .box-simple {
     min-height: 230px;
 }
+
+.runjs-1 {
+    box-sizing: border-box;
+    margin-top: 60px;
+    margin-bottom: 100px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-1 {
+      padding-left: 15px;
+      padding-right: 15px;
+      margin-bottom: 50px;
+      margin-top: 50px;
+    }
+  }
+  @media print {
+    .runjs-1 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-2 {
+    box-sizing: border-box;
+    border: 0px;
+    vertical-align: middle;
+    border-style: none;
+    width: 50px;
+    display: block;
+    margin: auto;
+    box-shadow: rgba(205, 205, 205, 0.5) 0px 0px 20px 0px;
+    border-radius: 50px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-2 {
+      width: 45px;
+    }
+  }
+  @media print {
+    .runjs-2 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+      max-width: 100% !important;
+    }
+  }
+  .runjs-3 {
+    box-sizing: border-box;
+    font-family: inherit;
+    margin-bottom: 0.5em;
+    font-size: 32px;
+    font-weight: 700;
+    color: rgb(32, 136, 254);
+    line-height: 56px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-3 {
+      margin-top: 15px;
+      font-size: 25px;
+      line-height: 34px;
+    }
+  }
+  @media print {
+    .runjs-3 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+      break-after: avoid;
+    }
+  }
+  .runjs-4 {
+    box-sizing: border-box;
+    width: 600px;
+    margin: 65px auto 115px;
+    position: relative;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-4 {
+      width: 100%;
+      margin-top: 30px;
+      padding-left: 23px;
+      padding-right: 23px;
+      margin-bottom: 40px;
+    }
+  }
+  @media print {
+    .runjs-4 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-5 {
+    box-sizing: border-box;
+    border: 0px;
+    vertical-align: middle;
+    border-style: none;
+    height: 30px;
+    position: absolute;
+    top: -30px;
+    left: -40px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-5 {
+      height: 20px;
+      width: 20px;
+      top: -10px;
+      left: 0px;
+    }
+  }
+  @media print {
+    .runjs-5 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+      max-width: 100% !important;
+    }
+  }
+  .runjs-6 {
+    box-sizing: border-box;
+    border: 0px;
+    vertical-align: middle;
+    border-style: none;
+    height: 30px;
+    position: absolute;
+    bottom: -30px;
+    right: -40px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-6 {
+      display: none;
+    }
+  }
+  @media print {
+    .runjs-6 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+      max-width: 100% !important;
+    }
+  }
+  .runjs-7 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    margin-top: 0px;
+    margin-bottom: 1em;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(0, 31, 65);
+    line-height: 35px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-7 {
+      font-size: 16px;
+      line-height: 32px;
+      color: rgb(59, 59, 59);
+    }
+  }
+  @media print {
+    .runjs-7 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-8 {
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    width: 1200px;
+    margin: auto;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-8 {
+      width: 100%;
+      padding-left: 23px;
+      padding-right: 23px;
+      display: block;
+    }
+  }
+  @media print {
+    .runjs-8 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-9 {
+    box-sizing: border-box;
+    width: 250px;
+    margin-right: 50px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-9 {
+      width: 100%;
+      margin-bottom: 35px;
+      margin-right: 0px;
+    }
+  }
+  @media print {
+    .runjs-9 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-10 {
+    box-sizing: border-box;
+    border: 0px;
+    vertical-align: middle;
+    border-style: none;
+    width: 40px;
+    height: 40px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-10 {
+      width: 40px;
+      height: 40px;
+    }
+  }
+  @media print {
+    .runjs-10 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+      max-width: 100% !important;
+    }
+  }
+  .runjs-11 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0, 31, 65);
+    line-height: 28px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-11 {
+      margin-top: 15px;
+      font-size: 20px;
+      line-height: 28px;
+      margin-bottom: 10px;
+    }
+  }
+  @media print {
+    .runjs-11 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-12 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(83, 83, 83);
+    line-height: 30px;
+    margin-bottom: 0px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-12 {
+      font-size: 15px;
+      line-height: 30px;
+      margin-bottom: 0px;
+    }
+  }
+  @media print {
+    .runjs-12 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-13 {
+    box-sizing: border-box;
+    width: 250px;
+    margin-right: 50px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-13 {
+      width: 100%;
+      margin-bottom: 35px;
+      margin-right: 0px;
+    }
+  }
+  @media print {
+    .runjs-13 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-14 {
+    box-sizing: border-box;
+    border: 0px;
+    vertical-align: middle;
+    border-style: none;
+    width: 40px;
+    height: 40px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-14 {
+      width: 40px;
+      height: 40px;
+    }
+  }
+  @media print {
+    .runjs-14 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+      max-width: 100% !important;
+    }
+  }
+  .runjs-15 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0, 31, 65);
+    line-height: 28px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-15 {
+      margin-top: 15px;
+      font-size: 20px;
+      line-height: 28px;
+      margin-bottom: 10px;
+    }
+  }
+  @media print {
+    .runjs-15 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-16 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(83, 83, 83);
+    line-height: 30px;
+    margin-bottom: 0px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-16 {
+      font-size: 15px;
+      line-height: 30px;
+      margin-bottom: 0px;
+    }
+  }
+  @media print {
+    .runjs-16 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-17 {
+    box-sizing: border-box;
+    width: 250px;
+    margin-right: 50px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-17 {
+      width: 100%;
+      margin-bottom: 35px;
+      margin-right: 0px;
+    }
+  }
+  @media print {
+    .runjs-17 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-18 {
+    box-sizing: border-box;
+    border: 0px;
+    vertical-align: middle;
+    border-style: none;
+    width: 40px;
+    height: 40px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-18 {
+      width: 40px;
+      height: 40px;
+    }
+  }
+  @media print {
+    .runjs-18 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+      max-width: 100% !important;
+    }
+  }
+  .runjs-19 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0, 31, 65);
+    line-height: 28px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-19 {
+      margin-top: 15px;
+      font-size: 20px;
+      line-height: 28px;
+      margin-bottom: 10px;
+    }
+  }
+  @media print {
+    .runjs-19 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-20 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(83, 83, 83);
+    line-height: 30px;
+    margin-bottom: 0px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-20 {
+      font-size: 15px;
+      line-height: 30px;
+      margin-bottom: 0px;
+    }
+  }
+  @media print {
+    .runjs-20 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-21 {
+    box-sizing: border-box;
+    width: 250px;
+    margin-right: 50px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-21 {
+      width: 100%;
+      margin-bottom: 35px;
+      margin-right: 0px;
+    }
+  }
+  @media print {
+    .runjs-21 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-22 {
+    box-sizing: border-box;
+    border: 0px;
+    vertical-align: middle;
+    border-style: none;
+    width: 40px;
+    height: 40px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-22 {
+      width: 40px;
+      height: 40px;
+    }
+  }
+  @media print {
+    .runjs-22 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      break-inside: avoid;
+      max-width: 100% !important;
+    }
+  }
+  .runjs-23 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0, 31, 65);
+    line-height: 28px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-23 {
+      margin-top: 15px;
+      font-size: 20px;
+      line-height: 28px;
+      margin-bottom: 10px;
+    }
+  }
+  @media print {
+    .runjs-23 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-24 {
+    box-sizing: border-box;
+    margin: 0px 0px 10px;
+    margin-top: 0px;
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(83, 83, 83);
+    line-height: 30px;
+    margin-bottom: 0px;
+  }
+  
+  @media (max-width: 549px) {
+    .runjs-24 {
+      font-size: 15px;
+      line-height: 30px;
+      margin-bottom: 0px;
+    }
+  }
+  @media print {
+    .runjs-24 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+      orphans: 3;
+      widows: 3;
+    }
+  }
+  .runjs-25 {
+    box-sizing: border-box;
+    height: 0px;
+    border: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    visibility: hidden;
+  }
+  
+  @media print {
+    .runjs-25 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  .runjs-26 {
+    box-sizing: border-box;
+    height: 0px;
+    border: none;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    visibility: hidden;
+  }
+  
+  @media print {
+    .runjs-26 {
+      color: rgb(0, 0, 0) !important;
+      text-shadow: none !important;
+      background: transparent !important;
+      box-shadow: none !important;
+    }
+  }
+  
