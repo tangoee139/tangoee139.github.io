@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>志愿活动 on 幸福退休生活</title>
-    <link>http://localhost:1313/free_activities/</link>
+    <link>https://tangoee139.github.io/free_activities/</link>
     <description>Recent content in 志愿活动 on 幸福退休生活</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <atom:link href="http://localhost:1313/free_activities/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://tangoee139.github.io/free_activities/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>深入学习贯彻习近平总书记回信精神</title>
+      <link>https://tangoee139.github.io/free_activities/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>https://tangoee139.github.io/free_activities/chapter-1/</guid>
+      <description>&lt;p&gt;为深入学习贯彻习近平总书记给“银龄行动”老年志愿者代表的重要回信精神，促进“银龄行动”的拓面升级、提质增效，擦亮品牌，2023年11月20日上午，民政部、全国老龄办、中国老龄协会共同举办了&lt;strong&gt;新时代“银龄行动”启动活动&lt;/strong&gt;。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>倡议书</title>
+      <link>https://tangoee139.github.io/free_activities/chapter-2/</link>
+      <pubDate>Sat, 01 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>https://tangoee139.github.io/free_activities/chapter-2/</guid>
+      <description>&lt;h3 id=&#34;参与银龄行动-实现老有所为为推进中国式现代化贡献银发力量致全国老年志愿者和志愿服务组织的倡议书&#34;&gt;参与“银龄行动” 实现老有所为 为推进中国式现代化贡献“银发力量”——致全国老年志愿者和志愿服务组织的倡议书&lt;/h3&gt;</description>
+    </item>
   </channel>
 </rss>
